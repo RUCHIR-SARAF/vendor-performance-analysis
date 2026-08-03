@@ -132,9 +132,9 @@ The analysis includes various visualizations such as:
 
 Example:
 
-```markdown
+
 ![Summary Statistics](Images/numerical_feature_distributions.png)
-```
+
 
 ---
 
