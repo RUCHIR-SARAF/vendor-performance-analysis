@@ -55,7 +55,7 @@ Vendor_Performance_Analysis/
 │   ├── Exploratory data analysis.ipynb
 │   └── vendor_performance_analysis.ipynb
 │
-├── dashboard/
+├── images/
 │
 │
 ├── README.md
@@ -129,13 +129,9 @@ The analysis includes various visualizations such as:
 - Vendor comparison charts
 - Purchase trend analysis
 
-*(Add screenshots inside the `images` folder and display them here.)*
 
-Example:
+[Summary Statistics](images/Screenshot 2026-08-01 160317.png)
 
-```markdown
-![Summary Statistics](images/Screenshot 2026-08-01 160317.png)
-```
 
 ---
 
