@@ -133,7 +133,7 @@ The analysis includes various visualizations such as:
 Example:
 
 ```markdown
-![Summary Statistics](images/Screenshot 2026-08-01 160317.png)
+![Summary Statistics](Images/numerical_feature_distributions.png)
 ```
 
 ---
