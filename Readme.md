@@ -129,13 +129,6 @@ The analysis includes various visualizations such as:
 - Purchase trend analysis
 
 
-
-Example:
-
-
-![Summary Statistics](Images/numerical_feature_distributions.png)
-
-
 ---
 
 ## 💡 Key Insights
