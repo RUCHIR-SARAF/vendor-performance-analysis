@@ -149,7 +149,7 @@ The project explores:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Vendor_Performance_Analysis.git
+git clone https://github.com/Devshadow-ui/Vendor_Performance_Analysis.git
 ```
 
 ### Navigate to the Project
