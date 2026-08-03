@@ -55,8 +55,6 @@ Vendor_Performance_Analysis/
 │   ├── Exploratory data analysis.ipynb
 │   └── vendor_performance_analysis.ipynb
 │
-├── dashboard/
-│
 ├── images/
 │
 ├── README.md
