@@ -224,6 +224,6 @@ This project was developed with help of a youtube video project for learning and
 **Ruchir Saraf**
 
 - LinkedIn: *(https://www.linkedin.com/in/ruchirsaraf/)*
-- GitHub: *(https://github.com/Devshadow-ui)*
+- GitHub: *(https://github.com/RUCHIR-SARAF)*
 
 ---
